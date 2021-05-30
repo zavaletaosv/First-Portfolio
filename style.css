@@ -72,3 +72,16 @@ Vertically Instead of Horizontally on Screens Less Than 500 Pixels */
     display: block;
     }
 }
+
+/* Footer Styling */
+
+.footer {
+    padding: 30px;
+    text-align: center;
+    clear: both;
+}
+
+.footer h4 {
+    color: white;
+    font-size: 20px;
+}
